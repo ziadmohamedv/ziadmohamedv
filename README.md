@@ -53,4 +53,4 @@ I build scalable, domain-driven web platforms with **ASP.NET Core, ABP Framework
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziadmohamedv/)
-[![Email](https://img.shields.io/badge/ziad1xyz%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ziad1xyz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ziad1xyz@gmail.com)
